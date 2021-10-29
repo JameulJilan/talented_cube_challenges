@@ -1,0 +1,29 @@
+/*
+Theme Name: customtheme
+Author: H M Jameul Haque Sarker
+Version: 1.0
+*/
+
+
+.button_class {
+    position: absolute;
+    bottom: 20rem;
+    right: 12rem;
+    padding: .5rem;
+    height: 3rem;
+    width: 10rem;
+}
+
+#client-list .card{
+height: 120px;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+}
+#footer a{
+    text-decoration: none !important;
+}
