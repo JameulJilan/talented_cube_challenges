@@ -5,7 +5,7 @@
         <h1 class="text-center">Products</h1>
         <section id="product_list" class="mt-5">
             <div class="row">
-                <div class="col p-0">
+                <div class="col-12 col-md-3 p-0">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Housing Insurance</h5>
@@ -15,7 +15,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col p-0">
+                <div class="col p-0 col-md-3">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Vehicle Insurance</h5>
@@ -25,7 +25,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col p-0">
+                <div class="col p-0 col-md-3">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Travel Insurance</h5>
@@ -35,7 +35,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col p-0">
+                <div class="col p-0 col-md-3">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Health Insurance</h5>
